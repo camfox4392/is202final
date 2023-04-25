@@ -1,0 +1,42 @@
+body {
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20;
+    color: darkgreen;
+
+}
+
+.common {
+    background-color: darkgreen;
+    
+}
+
+.centered {
+    position: absolute;
+    top: 10%;
+    left: 90%; 
+    transform: translate(-50%, -50%);
+  }
+
+li{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.Listheading {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
